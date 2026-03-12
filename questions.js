@@ -1,0 +1,22 @@
+const questions = [
+    { q: "What is a clinical sign of acrodermatitis?", o: ["Zinc deficiency", "Iodine excess", "High urea", "Low ALP"], a: 0 },
+    { q: "Which enzyme is released into the blood upon cardiac muscle injury?", o: ["ALP", "AST", "ALT", "Urease"], a: 1 },
+    { q: "In the Jaffe reaction, why is the reddish-orange color intensity measured at 520 nm?", o: ["It is directly proportional to creatinine concentration", "It indicates urea levels", "It prevents enzyme denaturation", "It is only for urine samples"], a: 0 },
+    { q: "Which condition is known for increasing the Urea/Creatinine ratio?", o: ["Pre-renal failure", "Muscle dystrophy", "Liver cirrhosis", "Normal pregnancy"], a: 0 },
+    { q: "Which reagent is essential for the Berthelot reaction to produce a blue-green dye?", o: ["Sodium hypochlorite", "Picric acid", "Aspartate", "Alanine"], a: 0 },
+    { q: "Why is creatinine a better marker for kidney function than urea?", o: ["It is independent of protein diet", "It is easier to synthesize", "It is always elevated in liver failure", "It is not found in muscles"], a: 0 },
+    { q: "What happens to ALP levels in cases of obstructive biliary tract disease?", o: ["Decreased", "Increased", "No change", "Disappear"], a: 1 },
+    { q: "Which mineral deficiency can lead to poor wound healing?", o: ["Zinc", "Iodine", "Creatinine", "Urea"], a: 0 },
+    { q: "What is the clinical role of monitoring thyroid hormones T3 and T4?", o: ["To assess metabolism and growth", "To monitor zinc levels", "To calculate GFR", "To measure muscle mass"], a: 0 },
+    { q: "What is the product of ALP catalysis at pH 9.8?", o: ["p-Nitrophenol", "Urea", "Ammonia", "Pyruvate"], a: 0 },
+    { q: "Which enzyme's activity is monitored by the rate of NADH oxidation at 340 nm?", o: ["ALT", "ALP", "Zinc", "Creatinine"], a: 0 },
+    { q: "What is a major risk factor for patients with decreased eGFR?", o: ["Progressive kidney disease", "High zinc absorption", "Thyroid hyperfunction", "Increased muscle mass"], a: 0 },
+    { q: "Which protein is essential for DNA/RNA synthesis and repair?", o: ["Zinc", "Urea", "Creatinine", "Iodine"], a: 0 },
+    { q: "What is the main diagnostic significance of elevated ALT compared to AST?", o: ["Viral or toxic hepatitis", "Myocardial infarction", "Muscle trauma", "Renal failure"], a: 0 },
+    { q: "What is the role of 2-oxoglutarate in the AST/ALT test?", o: ["Substrate for transamination", "Inhibitor of LDH", "Indicator of pH", "Source of ammonia"], a: 0 },
+    { q: "What does the Cockcroft-Gault formula use to adjust for female patients?", o: ["A constant multiplier (0.85)", "Higher weight allowance", "Different blood pressure", "Age exclusion"], a: 0 },
+    { q: "Which trace element's deficiency can result in teratology and fetal growth failure?", o: ["Zinc", "Iodine", "Creatinine", "Urea"], a: 0 },
+    { q: "Why are serum creatinine levels decreased in muscle dystrophy?", o: ["Reduced muscle mass", "High protein diet", "Renal dysfunction", "Iodine excess"], a: 0 },
+    { q: "What does the Urea Reagent 1 contain that catalyzes the reaction?", o: ["Urease", "Salicylate", "Nitroprusside", "Picric acid"], a: 0 },
+    { q: "Which enzyme acts as a biological indicator for bone disease (e.g., Paget's disease)?", o: ["ALP", "AST", "ALT", "Urease"], a: 0 }
+];
